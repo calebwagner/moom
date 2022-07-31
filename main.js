@@ -27,3 +27,10 @@ let num8 = 8;
 let num9 = 9;
 
 let num10 = 10;
+<<<<<<< HEAD
+=======
+
+// commit that won't make it
+
+// commit that will make it
+>>>>>>> c8c04c0 (commit that will make it)
