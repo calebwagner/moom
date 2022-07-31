@@ -31,10 +31,3 @@ let num10 = 10;
 // commit that won't make it
 
 // commit that will make it
-<<<<<<< HEAD
-=======
-
-// DON'T SEE ME
-
-// SEE ME
->>>>>>> 109e7a8 (see me)
